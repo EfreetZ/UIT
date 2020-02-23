@@ -38,7 +38,7 @@ NOde two(NOde head)//Ñ­»·Á´±í
 		p->next =q;
 		p=q;
 		i++;
-		if(i=6)
+		if(i==6)
 		break;
 	}
 	p->next =head;
