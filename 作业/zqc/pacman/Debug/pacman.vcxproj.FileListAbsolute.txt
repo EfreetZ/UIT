@@ -1,0 +1,4 @@
+D:\程序\2020.7.14\pacman\Debug\pacman.exe
+D:\程序\2020.7.14\pacman\Debug\pacman.pdb
+F:\程序\2020.7.14work\pacman\Debug\pacman.exe
+F:\程序\2020.7.14work\pacman\Debug\pacman.pdb
